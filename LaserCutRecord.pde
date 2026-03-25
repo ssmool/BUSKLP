@@ -20,7 +20,7 @@ import ec.util.*;
 import java.util.Scanner;
 
 //parameters
-static String filename = "ROCK LIVRE - MONTANHA AZUL - LADO A [LP] -WAV_mixagem_Estéreo._output_lp.txt";//generate a txt file of your waveform using python wav to txt, and copy the file name here
+static String filename = "track._output_lp.txt";//generate a txt file of your waveform using python wav to txt, and copy the file name here
 float rpm = 45.0;//33.3,45,78
 float samplingRate = 44100;//sampling rate of incoming audio
 float dpi = 1200;//dpi of cutter
