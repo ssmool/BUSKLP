@@ -10,7 +10,7 @@ import struct
 bitDepth = 8#target bitDepth
 frate = 44100#target frame rate
 
-fileName = "/home/ssmool/Músicas/lp @buskplay/track.wav"#file to be imported (change this)
+fileName = "track.wav" #file to be imported (change this)
 
 #fileName = input("FILENAME[path]:")
 
